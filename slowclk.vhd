@@ -1,3 +1,4 @@
+---------------It converts 50MHZ which is inbulit on CPLD Krypton board to 1KHz ---------------
 library std;
 use std.standard.all;
 library ieee;
